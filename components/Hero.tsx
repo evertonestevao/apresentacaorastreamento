@@ -65,7 +65,7 @@ export default function HeroSection() {
         </div>
 
         {/* Vídeo à direita */}
-        <div className="flex-[2] w-full lg:max-w-3xl aspect-video rounded-xl overflow-hidden shadow-lg">
+        <div className="flex-[2] w-full lg:max-w-6xl aspect-video rounded-xl overflow-hidden shadow-lg">
           <video
             ref={videoRef}
             src="/demonstracao.mp4"
