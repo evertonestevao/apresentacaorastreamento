@@ -52,7 +52,7 @@ export default function HeroSection() {
                 Ler Artigo Completo
               </a>
             </Button>
-            <Button asChild>
+            {/* <Button asChild>
               <a
                 href="https://github.com/seu-repo"
                 target="_blank"
@@ -60,7 +60,7 @@ export default function HeroSection() {
               >
                 Ver Código no GitHub
               </a>
-            </Button>
+            </Button> */}
           </div>
         </div>
 

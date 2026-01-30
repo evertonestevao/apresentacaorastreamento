@@ -16,7 +16,7 @@ export default function CTASection() {
             Ler Artigo Completo
           </a>
         </Button>
-        <Button asChild>
+        {/* <Button asChild>
           <a
             href="https://github.com/seu-repo"
             target="_blank"
@@ -24,7 +24,7 @@ export default function CTASection() {
           >
             Ver Código no GitHub
           </a>
-        </Button>
+        </Button> */}
       </div>
     </section>
   );
